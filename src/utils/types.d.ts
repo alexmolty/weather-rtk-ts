@@ -16,5 +16,4 @@ export interface WeatherInfoResponse {
         sunset: number,
         country: string,
     },
-
 }
